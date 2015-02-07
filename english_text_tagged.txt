@@ -1,0 +1,3 @@
+I/PR am/VB a/DT student/NN ./PU
+I/PR eat/VB delicious/ADJ food/NN ./PU
+I/PR visit/VB Okinawa/NN ./PU

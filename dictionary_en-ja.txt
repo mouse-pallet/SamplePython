@@ -1,0 +1,10 @@
+I	私は
+am	です
+a	<empty>
+student	学生
+.	。
+delicious	おいしい	
+food	食べ物を
+visit	行きます
+eat	食べます
+Okinawa	沖縄へ
